@@ -1,0 +1,28 @@
+{"data": [
+  {
+    "name":"Цитадель Риков",
+    "upImageUri": "mainscreen",
+    "lowImageUri": "chr1ricksanchez",
+    "description": "описание рика агшшциАШГИГШТшащ"
+
+
+  },
+  {
+    "name": "Морти Смит",
+    "upImageUri": "mainscreen",
+    "lowImageUri": "chr1mortysmit",
+    "description": "ИСУР8УРАШАШЩУТШШТШЩ"
+  },
+  {
+    "name": "Бет Смит",
+    "upImageUri": "mainscreen",
+    "lowImageUri": "chr1betsmit",
+    "description": "Человек"
+  },
+  {
+    "name": "Дуффус Рик",
+    "upImageUri": "mainscreen",
+    "lowImageUri": "chr1duffusrick",
+    "description": "Человек"
+  }
+]}

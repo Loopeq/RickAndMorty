@@ -1,0 +1,38 @@
+{"data": [
+  {
+    "name":"Плюмбус",
+    "upImageUri": "https://static.wikia.nocookie.net/rickandmorty/images/d/d1/Everybody_has_a_Plumbus.JPG/revision/latest?cb=20170926163022",
+    "lowImageUri": "chr1ricksanchez",
+    "description": "Род: Человек\nПол: Мужской\nВозраст",
+    "head1": "Внешность персонажа",
+    "body1": "Пьяный на вид"
+
+  },
+  {
+    "name":"Портальная пушка",
+    "upImageUri": "https://vignette.wikia.nocookie.net/rickandmorty/images/c/c5/S3e1_portal_gun.png/revision/latest?cb=20170731001039",
+    "lowImageUri": "chr1ricksanchez",
+    "description": "Род: Человек\nПол: Мужской\nВозраст",
+    "head1": "Внешность персонажа",
+    "body1": "Пьяный на вид"
+
+  },
+  {
+    "name":"Цепкая обувь",
+    "upImageUri": "https://static.wikia.nocookie.net/rickandmorty/images/8/8f/Цепкие_ботинки_на_Рике.jpg/revision/latest?cb=20191211134914&path-prefix=ru",
+    "lowImageUri": "chr1ricksanchez",
+    "description": "Род: Человек\nПол: Мужской\nВозраст",
+    "head1": "Внешность персонажа",
+    "body1": "Пьяный на вид"
+
+  },
+  {
+    "name":"Летающая тарелка",
+    "upImageUri": "https://www.wallpaperflare.com/static/618/113/79/rick-and-morty-adult-swim-cartoon-gray-wallpaper.jpg",
+    "lowImageUri": "chr1ricksanchez",
+    "description": "Род: Человек\nПол: Мужской\nВозраст",
+    "head1": "Внешность персонажа",
+    "body1": "Пьяный на вид"
+
+  }
+]}

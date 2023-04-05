@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">RickAndMorty</string>
+    <string name="characterstitle">Герои</string>
+    <string name="charactersimage">https://static.tildacdn.com/stor3931-6562-4365-a336-653438643930/81046814.jpg</string>
+    <string name="objectstitle">Объекты</string>
+    <string name="objectsimage">https://phonoteka.org/uploads/posts/2021-07/1625162016_52-phonoteka-org-p-rik-i-morti-na-rabochii-stol-krasivo-oboi-56.jpg</string>
+    <string name="episodestitle">Эпизоды</string>
+    <string name="episodesimage">https://chakiris.club/uploads/posts/2023-01/1674298656_chakiris-club-p-demoni-rik-i-morti-fentezi-oboi-6.jpg</string>
+    <string name="locationtitle">Локации</string>
+    <string name="locationimage">https://phonoteka.org/uploads/posts/2022-09/1663269259_46-phonoteka-org-p-rik-i-morti-art-pinterest-52.jpg</string>
+</resources>
